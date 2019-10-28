@@ -6,9 +6,10 @@
 
 ### 담당 : 프론트엔드 담당 및 백엔드 보조
 
+### 기술 : React, Material-ui, MySQL, express, JWT, passport, AWS EC2, S3, RDS
+
 ### 프로젝트 내 역할
 
-- React, Material-ui, MySQL, express, JWT, passport, AWS EC2, S3, RDS
 - 백엔드 팀원과 함께 RDBMS 설계
 - React class기반으로 작성 후 hooks로 전환
 - React Router로 페이지 라우팅
